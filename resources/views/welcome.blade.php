@@ -21,7 +21,7 @@
             <div class="skill-bar-progress">
                 <div class="skill-bar-fill" style="width: 0;"></div>
             </div>
-            <span class="skill-percent">80%</span>
+            <span class="skill-percent">80%</span> 
         </div>
         <div class="skill-bar">
             <span class="skill-name">HTML5</span> 
