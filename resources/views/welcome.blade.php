@@ -50,7 +50,7 @@
     <div class="container" style="margin-bottom: 70px;">
         <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">Mis Proyectos</h1>
 
-        <div class="row">
+        <div class="row mb20px">
             <div class="col-md-4">
                 <div class="card" style="background-image: url('{{ asset('images/proyecto1.jpg') }}'); background-size: cover;">
                     <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2); /* Añade opacidad al fondo */">

@@ -185,5 +185,12 @@ body {
     border-color: #0056b3;
 }
 
+@media (max-width: 768px) {
+   .mb20px{
+    margin-bottom: 120px;
+
+   }
+}
+
 
 ////
