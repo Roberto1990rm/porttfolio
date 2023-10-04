@@ -1,7 +1,13 @@
 <x-layout>
+    @if(session('success'))
+    <div class="alert alert-success">
+        {{ session('success') }}
+    </div>
+@endif
+
 
     <div class="container mt-2 skills-section">
-        <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Mis Aptitudes</h1>
+        <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">Mis Aptitudes</h1>
         <div class="skill-bar">
             <span class="skill-name">PHP</span>
             <div class="skill-bar-progress skill-barphp">
@@ -42,7 +48,7 @@
 
 
     <div class="container" style="margin-bottom: 70px;">
-        <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Mis Proyectos</h1>
+        <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">Mis Proyectos</h1>
 
         <div class="row">
             <div class="col-md-4">
@@ -77,17 +83,15 @@
             <div class="col-md-4">
                 <div class="card" style="background-image: url('{{ asset('images/proyecto3.jpg') }}'); background-size: cover;">
                     <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2); /* Añade opacidad al fondo */">
-                        <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Medio de comunicación digital</h5>
+                        <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Medio de comunicaión/ Web de Noticias</h5>
             
                         <div class="scroll-box">
-                            <p style="color: rgb(255, 255, 255); text-align: justify;" class="card-text">
+                            <p style="color: rgb(250, 250, 250); text-align: justify;" class="card-text">
                               En este proyecto individual realicé un catálogo/agregador de cervecerías y cervezas. Para poder crear nuevas entradas es necesario estar registrado, además he añadido un mapa interactivo con Leaflet que marca la ubicación del bar en el mapa en función de las coordenadas añadidas desde el modo crear entrada. En la página HOME, para darle un toque entretenido, añadí un contador de cervezas que va sumando cada vez que pulsamos en una más y va modificando el mensaje según el número de cervezas.
                             </p>
                         </div>
                         <a href="http://209.38.216.56/home" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">Ver Proyecto</a>
                     </div>
-                </div>
-            </div>
         </div>
     </div>
     

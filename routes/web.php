@@ -20,3 +20,4 @@ Route::get('/', function () {
 })->name('inicio');
 
 Route::get('/contacto', [ContactController::class, 'showContactForm'])->name('contacto');
+Route::post('/submitForm', [ContactController::class, 'submitForm'])->name('submitForm');
