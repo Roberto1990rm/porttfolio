@@ -76,7 +76,7 @@
                               En este proyecto individual realicé un catálogo/agregador de cervecerías y cervezas. Para poder crear nuevas entradas es necesario estar registrado, además he añadido un mapa interactivo con Leaflet que marca la ubicación del bar en el mapa en función de las coordenadas añadidas desde el modo crear entrada. En la página HOME, para darle un toque entretenido, añadí un contador de cervezas que va sumando cada vez que pulsamos en una más y va modificando el mensaje según el número de cervezas.
                             </p>
                         </div>
-                        <a href="http://209.38.216.56/home" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">Ver Proyecto</a>
+                        <a href="http://68.183.67.132/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">Ver Proyecto</a>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                               En este proyecto individual realicé un catálogo/agregador de cervecerías y cervezas. Para poder crear nuevas entradas es necesario estar registrado, además he añadido un mapa interactivo con Leaflet que marca la ubicación del bar en el mapa en función de las coordenadas añadidas desde el modo crear entrada. En la página HOME, para darle un toque entretenido, añadí un contador de cervezas que va sumando cada vez que pulsamos en una más y va modificando el mensaje según el número de cervezas.
                             </p>
                         </div>
-                        <a href="http://209.38.216.56/home" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">Ver Proyecto</a>
+                        <a href="http://138.68.84.27/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">Ver Proyecto</a>
                     </div>
         </div>
     </div>
