@@ -15,7 +15,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
     <title>{{ $title ?? 'AllforYou.com' }}</title>
 </head>
-<body>
+<body style="background-color: #7dcd74;">
     <x-navbar />
     
     {{$slot}}

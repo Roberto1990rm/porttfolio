@@ -1,9 +1,11 @@
 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 36px;
     text-align: center;
-    margin: 20px 0;
     color: #333;
 }
+
+
 
 
 .scroll-box {
@@ -122,9 +124,29 @@ footer {
     transition: width 0.5s;
 }
 
+.skill-barphp .skill-bar-fill {
+    background-color: #FF5722; /* Ejemplo de color para PHP */
+  }
+  
+  .skill-barlaravel .skill-bar-fill {
+    background-color: #FFD700; /* Ejemplo de color para Laravel */
+  }
+  
+  .skill-barcss .skill-bar-fill {
+    background-color: #008CBA; /* Ejemplo de color para CSS */
+  }
+  
+  .skill-barhtml5 .skill-bar-fill {
+    background-color: #E44D26; /* Ejemplo de color para HTML5 */
+  }
+  
+  .skill-barjs .skill-bar-fill {
+    background-color: #F0DB4F; /* Ejemplo de color para JavaScript */
+  }
 
 
-//contac//
+
+//contac//;
 
 body {
     background-color: #f8f9fa;
