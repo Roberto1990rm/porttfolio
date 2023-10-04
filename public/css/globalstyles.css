@@ -11,7 +11,7 @@ h1 {
 .scroll-box {
     overflow-y: scroll;
     max-height: 200px; /* Ajusta la altura máxima según tus necesidades */
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(75, 74, 74, 0.8);
     border: 1px solid #ccc; /* Borde opcional */
     padding: 10px; /* Espaciado interno opcional */
   }
@@ -85,10 +85,14 @@ text {
 
 /* Estilos para el pie de página */
 footer {
-    text-align: center;
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333; /* Cambia el color de fondo según tus preferencias */
+    color: #fff; /* Cambia el color de texto según tus preferencias */
+    padding: 10px; /* Añade relleno para que el contenido sea visible */
+    text-align: center; /* Centra el texto dentro del pie de página */
 }
 
 /* Estilos para la sección de aptitudes */
