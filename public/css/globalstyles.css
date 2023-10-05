@@ -78,10 +78,7 @@ text {
 }
 
 /* Estilos para el contenedor principal */
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
+
 
 /* Estilos para el pie de página */
 footer {
@@ -158,6 +155,8 @@ footer {
 
 body {
     background-color: #f8f9fa;
+        margin-left: 10px; /* Ajusta este valor según tus preferencias */
+        margin-right: 10px; /* Ajusta este valor según tus preferencias */
 }
 
 .contact-container {
