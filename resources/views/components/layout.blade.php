@@ -15,7 +15,8 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <title>{{ $title ?? 'AllforYou.com' }}</title>
+    <title>fullstackrober.com</title>
+    <link rel="stylesheet" href="https://www.fullstackrober.com/">
 </head>
 <body style="background-color: #e3fae1;">
     <x-navbar />
