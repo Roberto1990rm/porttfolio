@@ -44,7 +44,7 @@
 
     
     
-<div class="container mt-5">
+<div class="container mt-5 mb20px">
     <div class="contact-container">
         <h2 class="contact-title">Contáctame</h2>
         <form method="POST" action="{{ route('submitForm') }}">
