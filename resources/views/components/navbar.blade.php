@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand  navbar-light" style="background-color: yellow;">
-    <a class="navbar-brand" href="#">Mi Portafolio</a>
+<nav class="navbar navbar-expand  navbar-light " style="background-color: yellow;">
+    <a class="navbar-brand" href="#">Roberto Ramírez</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -8,8 +8,8 @@
             <li class="nav-item active">
                 <a class="nav-link" href="{{ route('inicio') }}">Inicio</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{ route('inicio') }}">Proyectos</a>
+            <li class="nav-link">
+                <a href="{{ route('inicio') }}#proyectos">Proyectos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="{{ route('contacto') }}">Contacto</a>
