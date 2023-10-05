@@ -6,7 +6,7 @@
 @endif
 
 
-    <div class=" mt-2 skills-section p-2" s>
+    <div class=" mt-2 skills-section p-3" s>
         <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">Mis Aptitudes</h1>
         <div class="skill-bar">
             <span class="skill-name">PHP</span>
