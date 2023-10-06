@@ -11,9 +11,10 @@
             <li class="nav-link">
                 <a href="{{ route('inicio') }}#proyectos">Proyectos</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{ route('contacto') }}">Contacto</a>
+            <li class="nav-item mt-2">
+                <a class=" custom-button" href="{{ route('contacto') }}">Contacto</a>
             </li>
+            
         </ul>
     </div>
 </nav>

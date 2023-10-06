@@ -78,6 +78,15 @@ text {
 }
 
 /* Estilos para el contenedor principal */
+/* CSS personalizado */
+.custom-button {
+    background-color: red; /* Color de fondo rojo */
+    color: white; /* Color de texto blanco */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Sombra personalizada */
+    /* Otros estilos personalizados según tus preferencias */
+}
 
 
 /* Estilos para el pie de página */
