@@ -68,7 +68,7 @@
         </div>
 
 
-    <div id="proyectos" class="container" style="margin-bottom: 70px;">
+    <div id="proyectos"  style="margin-bottom: 100px;">
         <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">Mis Proyectos</h1>
 
         <div class="row mb20px">
