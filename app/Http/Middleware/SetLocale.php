@@ -6,7 +6,8 @@ use Closure;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\Response;
 use App\Http\Middleware\App;
-
+use App\Http\Controllers\publicController;
+use App\Http\Controllers;
 
 
 class SetLocale
