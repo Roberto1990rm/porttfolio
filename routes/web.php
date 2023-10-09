@@ -2,7 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController; // Agrega esta línea
-
+use App\Http\Controllers\publicController;
+use App\Http\Middleware\App;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +22,4 @@ Route::get('/', function () {
 
 Route::get('/contacto', [ContactController::class, 'showContactForm'])->name('contacto');
 Route::post('/submitForm', [ContactController::class, 'submitForm'])->name('submitForm');
+Route::get('/locale/{locale}', [PublicController::class, 'setLocale'])->name('locale.set');

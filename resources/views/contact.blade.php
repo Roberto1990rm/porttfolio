@@ -38,25 +38,26 @@
     
 <div class="container mt-5 mb20px">
     <div class="contact-container">
-        <h2 class="contact-title">Contáctame</h2>
+        <h2 class="contact-title">@lang('messages.contact_title')</h2>
         <form method="POST" action="{{ route('submitForm') }}">
             @csrf
             <div class="form-group">
-                <label for="name">Nombre</label>
+                <label for="name">@lang('messages.name')</label>
                 <input type="text" class="form-control" id="name" name="name" required>
             </div>
             <div class="form-group">
-                <label for="email">Correo Electrónico</label>
+                <label for="email">@lang('messages.email')</label>
                 <input type="email" class="form-control" id="email" name="email" required>
             </div>
             <div class="form-group">
-                <label for="message">Mensaje</label>
+                <label for="message">@lang('messages.message')</label>
                 <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Enviar</button>
+            <button type="submit" class="btn btn-primary">@lang('messages.send')</button>
         </form>
     </div>
 </div>
+
 
 
 </x-layout>
