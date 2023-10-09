@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController; // Agrega esta línea
 use App\Http\Controllers\publicController;
+use App\Http\Controllers;
 use App\Http\Middleware\App;
 
 /*
