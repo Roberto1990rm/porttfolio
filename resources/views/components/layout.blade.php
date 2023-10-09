@@ -27,23 +27,7 @@
 
     
   
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const addImageFieldButton = document.getElementById('addImageField');
-        const imageFieldsContainer = document.getElementById('imageFieldsContainer');
-        let imageFieldIndex = 0;
 
-        addImageFieldButton.addEventListener('click', function() {
-            const newImageField = document.createElement('input');
-            newImageField.type = 'file';
-            newImageField.className = 'form-control mt-2';
-            newImageField.name = `additional_images[]`;
-            newImageField.multiple = true;
-
-            imageFieldsContainer.appendChild(newImageField);
-        });
-    });
-</script>
     
 </body>
 </html>
