@@ -85,14 +85,14 @@
                 <div class="col-md-4 mt-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto2.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2); /* Añade opacidad al fondo */">
-                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project2_title')</h5>
+                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Allforyou.es/  @lang('messages.project2_title')</h5>
         
                             <div class="scroll-box">
                                 <p style="color: rgb(250, 250, 250); text-align: justify;" class="card-text">
                                     @lang('messages.project2_description')
                                 </p>
                             </div>
-                            <a href="http://68.183.67.132/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project2_link')</a>
+                            <a href="http://allforyou.es/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project2_link')</a>
                         </div>
                     </div>
                 </div>
