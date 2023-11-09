@@ -107,7 +107,7 @@
                                     @lang('messages.project3_description')
                                 </p>
                             </div>
-                            <a href="http://138.68.84.27/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
+                            <a href="http://buenosaireslindo.site/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
                         </div>
                     </div>
                 </div>
