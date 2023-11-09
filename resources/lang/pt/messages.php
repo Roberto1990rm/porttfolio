@@ -21,8 +21,8 @@ return [
     'project2_description' => 'Nesta loja, você pode listar artigos para venda depois de se registrar. Todos os anúncios precisarão ser aprovados por um revisor autorizado antes de serem visíveis na vista. Além disso, você pode enviar e receber mensagens sobre o item anunciado com outros usuários.',
     'project2_link' => 'Ver Projeto',
 
-    'project3_title' => 'Mídia/Website de Notícias',
-    'project3_description' => 'Neste site de notícias, você pode se registrar para comentar e dar "Gostei" nas notícias já publicadas. Além disso, se desejar se tornar um escritor, poderá solicitar por meio de um formulário. Se for aceito, também poderá publicar notícias. No entanto, todas as notícias sempre serão revisadas por um editor para garantir que tanto o texto quanto as imagens sejam adequados para o site.',
+    'project3_title' => 'BuenosAireslindo.site',
+    'project3_description' => 'Este guia de Buenos Aires oferece uma exploração imersiva dos bairros vibrantes da cidade. Apresenta mapas interativos mostrando as principais atrações, restaurantes locais e tesouros escondidos. Insights culturais, contextos históricos e dicas práticas aprimoram a experiência, tornando-o um recurso essencial para turistas e moradores locais que desejam descobrir o rico mosaico de Buenos Aires.',
     'project3_link' => 'Ver Projeto',
 
 
