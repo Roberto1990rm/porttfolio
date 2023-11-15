@@ -66,6 +66,21 @@
         <div id="proyectos"  style="margin-bottom: 100px;">
             <h1 style="margin-bottom: 30px; margin-top: 20px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.projects_title')</h1>
         
+            <div class="row mb20px">
+                <div class="col-md-4 mt-2">
+                    <div class="card h-100" style="background-image: url('{{ asset('images/proyecto1.jpg') }}'); background-size: cover;">
+                        <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2); /* Añade opacidad al fondo */">
+                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project1_title')</h5>
+        
+                            <div class="scroll-box">
+                                <p style="color: rgb(249, 244, 244); text-align: justify;" class="card-text">
+                                    @lang('messages.project1_description')
+                                </p>
+                            </div>
+                            <a href="http://104.248.41.148/home" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project1_link')</a>
+                        </div>
+                    </div>
+                </div>
                 
                 <div class="col-md-4 mt-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto2.jpg') }}'); background-size: cover;">
@@ -99,23 +114,6 @@
             </div>
         </div>
     </div>
-
-
-    <div class="row mb20px">
-        <div class="col-md-4 mt-2">
-            <div class="card h-100" style="background-image: url('{{ asset('images/proyecto1.jpg') }}'); background-size: cover;">
-                <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2); /* Añade opacidad al fondo */">
-                    <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project1_title')</h5>
-
-                    <div class="scroll-box">
-                        <p style="color: rgb(249, 244, 244); text-align: justify;" class="card-text">
-                            @lang('messages.project1_description')
-                        </p>
-                    </div>
-                    <a href="http://104.248.41.148/home" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project1_link')</a>
-                </div>
-            </div>
-        </div>
     
   
     </div>
