@@ -4,7 +4,9 @@
 return [
     'about_me_title' => 'Sobre Mim',
     'skills_title' => 'Minhas Habilidades',
-
+    'contact_phone' => 'Telefone',
+    'contact_email' => 'Email',
+    'contact_prefer' => 'Preferencialmente, entre em contato por telefone ou e-mail. Você também pode usar o formulário de contato se tiver alguma pergunta ou sugestão.',
     'about_me_paragraph1' => 'Como desenvolvedor web júnior, tenho uma paixão ardente pela criação de experiências online atraentes e funcionais. Meu nível de habilidade técnica é surpreendentemente alto, e estou pronto para mostrar como posso agregar um valor excepcional aos seus projetos.',
     'about_me_paragraph2' => 'Meu conhecimento abrange desde PHP e Laravel até CSS e HTML5, e estou em constante aprendizado para me manter atualizado com as últimas tendências em desenvolvimento web. Apesar do meu status júnior, minha habilidade para resolver problemas e minha dedicação me permitem abordar desafios complexos com confiança.',
     'about_me_paragraph3' => 'Tenho uma sólida compreensão de gerenciamento de bancos de dados e como uma estrutura de dados eficiente é fundamental para o desempenho de aplicativos. Embora minha experiência seja júnior, minha capacidade de gerenciar bancos de dados está em constante crescimento.',
@@ -26,7 +28,7 @@ return [
     'project3_link' => 'Ver Projeto',
 
 
-    'portfolio' => 'Portfólio',
+    'portfolio' => 'Roberto Ramírez',
     'inicio' => 'Início',
     'proyectos' => 'Projetos',
     'contacto' => 'Contato',

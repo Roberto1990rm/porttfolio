@@ -2,6 +2,9 @@
 
 
 return [
+    'contact_phone' => 'Teléfono',
+    'contact_email' => 'Correo Electrónico',
+    'contact_prefer' => 'Contactar preferiblemente por teléfono o correo electrónico. Usen el formulario de contacto si tienen alguna duda o sugerencia.',
     'about_me_title' => 'Sobre mí',
     'skills_title' => 'Mis Aptitudes',
 
@@ -26,13 +29,13 @@ return [
     'project3_link' => 'Ver Proyecto',
 
 
-    'portfolio' => 'Portafolio',
+    'portfolio' => 'Roberto Ramírez',
     'inicio' => 'Inicio',
     'proyectos' => 'Proyectos',
     'contacto' => 'Contacto',
 
 
-    'contact_title' => 'Contáctame',
+    'contact_title' => 'Formulario de contacto',
     'name' => 'Nombre',
     'email' => 'Correo Electrónico',
     'message' => 'Mensaje',

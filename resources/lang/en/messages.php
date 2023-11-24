@@ -4,7 +4,9 @@
 return [
     'about_me_title' => 'About Me',
     'skills_title' => 'My Skills',
-
+    'contact_phone' => 'Phone',
+    'contact_email' => 'Email',
+    'contact_prefer' => 'Preferably contact by phone or email, you can also use the contact form if you have any questions or suggestions.',
     'about_me_paragraph1' => 'As a junior web developer, I have a burning passion for creating engaging and functional online experiences. My technical skill level is surprisingly high, and I\'m ready to demonstrate how I can bring exceptional value to your projects.',
     'about_me_paragraph2' => 'My knowledge spans from PHP and Laravel to CSS and HTML5, and I am constantly learning to stay up-to-date with the latest trends in web development. Despite my junior status, my problem-solving ability and dedication enable me to tackle complex challenges with confidence.',
     'about_me_paragraph3' => 'I have a solid understanding of database management and how efficient data structure is fundamental for application performance. Although my experience is junior, my ability to manage databases is a continuously growing skill.',
@@ -23,7 +25,7 @@ return [
     'project3_title' => 'BuenosAiresLindo.site/City guide',
     'project3_description' => 'This Buenos Aires guide offers an immersive exploration of the city´s vibrant neighborhoods. It features interactive maps showing key attractions, local eateries, and hidden gems. Cultural insights, historical backgrounds, and practical tips enhance the experience, making it an essential resource for both tourists and locals seeking to discover the rich tapestry of Buenos Aires.',
     'project3_link' => 'View Project',
-    'portfolio' => 'Portfolio',
+    'portfolio' => 'Roberto Ramírez',
     'inicio' => 'Home',
     'proyectos' => 'Projects',
     'contacto' => 'Contact',
