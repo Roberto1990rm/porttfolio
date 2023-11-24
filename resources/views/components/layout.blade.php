@@ -17,7 +17,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
-<body style="background-color: #e3fae1;">
+<body style="background-color: #ffffff;">
     <x-navbar />
     
     {{$slot}}
