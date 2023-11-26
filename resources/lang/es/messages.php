@@ -15,7 +15,7 @@ return [
     'about_me_paragraph5' => 'A pesar de mi estado como junior, considera que traigo un conjunto de habilidades versátil y una pasión genuina por el desarrollo web. Estoy ansioso por asumir nuevos desafíos y aprender de cada proyecto. Trabajar conmigo significa tener un colaborador apasionado que está comprometido con el éxito de tus proyectos y está dispuesto a crecer junto contigo.',
     'about_me_paragraph6' => 'Estoy emocionado de colaborar en tus proyectos y ayudarte a alcanzar tus metas en el mundo del desarrollo web. ¡Comencemos esta emocionante aventura juntos!',
 
-    'projects_title' => 'Mis Proyectos',
+    'projects_title' => 'Proyectos',
     'project1_title' => 'Agregador cervecerías y cervezas',
     'project1_description' => 'En este proyecto, realicé un catálogo/agregador de cervecerías y cervezas. Para poder crear nuevas entradas, es necesario estar registrado. Además, he añadido un mapa interactivo con Leaflet que marca la ubicación del bar en el mapa en función de las coordenadas añadidas desde el modo de creación de entrada. En la página de inicio (HOME), para darle un toque entretenido, añadí un contador de cervezas que se incrementa cada vez que pulsamos en una cerveza adicional y modifica el mensaje según el número de cervezas.',
     'project1_link' => 'Ver Proyecto',

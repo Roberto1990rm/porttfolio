@@ -3,10 +3,12 @@
         <a class="navbar-brand" href="{{ route('inicio') }}" style="font-size: 24px;">@lang('messages.portfolio')</a>
 
         <!-- Botón de alternancia para dispositivos móviles -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" style="border: none; background: none;">
-            <span class="navbar-toggler-icon" style="background-color: #00ffcc;"></span>
-        </button>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+        data-bs-target="#navbarNav" aria-controls="navbarNav" 
+        aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+</button>
+
 
         <!-- Enlaces de navegación principal -->
         <div class="collapse navbar-collapse" id="navbarNav">
@@ -51,8 +53,42 @@
     /* Estilos para dispositivos móviles */
     @media (max-width: 991px) {
         .navbar-toggler {
-            margin-top: 5px;
-        }
+    border: none;
+    background: none;
+}
+
+.navbar-toggler-icon {
+    background-color: #00ffcc;
+    display: inline-block;
+    width: 30px; /* Adjust the width as needed */
+    height: 3px; /* Adjust the height as needed */
+    position: relative;
+}
+
+.navbar-toggler-icon::before, .navbar-toggler-icon::after {
+    background-color: #00ffcc;
+    content: "";
+    display: block;
+    width: 30px; /* Same as the navbar-toggler-icon width */
+    height: 3px; /* Same as the navbar-toggler-icon height */
+    position: absolute;
+    left: 0;
+}
+
+.navbar-toggler-icon::before {
+    top: -10px; /* Adjust the distance as needed */
+}
+
+.navbar-toggler-icon::after {
+    bottom: -10px; /* Adjust the distance as needed */
+}
+
+/* Adding the thick yellow border */
+.navbar-toggler {
+    padding: 5px; /* Adjust padding for size of the border */
+    border: 4px solid yellow; /* Adjust border thickness and color */
+}
+
 
         .navbar-nav {
             flex-direction: row;

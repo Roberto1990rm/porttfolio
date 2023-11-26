@@ -163,9 +163,18 @@ footer {
 
 body {
     background-color: #ffffff;
+    
         margin-left: 10px; /* Ajusta este valor según tus preferencias */
         margin-right: 10px; /* Ajusta este valor según tus preferencias */
+        font-family: Arial, sans-serif;
+    background-image: url('/images/fondo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
 }
+
 
 .contact-container {
     max-width: 800px;
