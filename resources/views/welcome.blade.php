@@ -134,7 +134,6 @@
             <p>@lang('messages.about_me_paragraph3')</p>
             <em><p>@lang('messages.about_me_paragraph4')</p></em>
             <p>@lang('messages.about_me_paragraph5')</p>
-            <p>@lang('messages.about_me_paragraph6')</p>
         </div>
         
         <div class="text-center" style="margin-bottom: 60px;">

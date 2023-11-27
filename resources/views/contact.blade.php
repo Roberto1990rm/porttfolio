@@ -78,5 +78,43 @@
                 <button type="submit" class="btn btn-primary">@lang('messages.send')</button>
             </form>
         </div>
+        <div class="button-container">
+            <button onclick="window.history.back()" class="btn btn-secondary">@lang('messages.back')</button>
+        </div>
+        
     </div>
 </x-layout>
+<style>
+    .button-container {
+    display: flex;
+    justify-content: center; /* Centra el botón horizontalmente */
+    margin-bottom: 120px;    /* Espacio debajo del contenedor */
+    margin-top: 20px;        /* Espacio encima del contenedor */
+}
+
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #545b62;
+    border-color: #545b62;
+}
+
+.center-button {
+    display: block;
+    margin-bottom: 120px;
+    margin-top: 20px;
+
+
+}
+
+</style>

@@ -5,6 +5,7 @@ return [
     'about_me_title' => 'Sobre Mim',
     'skills_title' => 'Minhas Habilidades',
     'contact_phone' => 'Telefone',
+    'back' => 'Volver',
     'contact_email' => 'Email',
     'contact_prefer' => 'Preferencialmente, entre em contato por telefone ou e-mail. Você também pode usar o formulário de contato se tiver alguma pergunta ou sugestão.',
     'about_me_paragraph1' => 'Como desenvolvedor web júnior, tenho uma paixão ardente pela criação de experiências online atraentes e funcionais. Meu nível de habilidade técnica é surpreendentemente alto, e estou pronto para mostrar como posso agregar um valor excepcional aos seus projetos.',

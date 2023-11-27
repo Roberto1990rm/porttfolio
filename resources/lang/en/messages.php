@@ -5,6 +5,7 @@ return [
     'about_me_title' => 'About Me',
     'skills_title' => 'My Skills',
     'contact_phone' => 'Phone',
+    
     'contact_email' => 'Email',
     'contact_prefer' => 'Preferably contact by phone or email, you can also use the contact form if you have any questions or suggestions.',
     'about_me_paragraph1' => 'As a junior web developer, I have a burning passion for creating engaging and functional online experiences. My technical skill level is surprisingly high, and I\'m ready to demonstrate how I can bring exceptional value to your projects.',
@@ -14,6 +15,7 @@ return [
     'about_me_paragraph5' => 'Despite my junior status, consider that I bring a versatile skill set and a genuine passion for web development. I am excited to take on new challenges and learn from each project. Working with me means having a dedicated collaborator committed to the success of your projects and willing to grow together with you.',
     'about_me_paragraph6' => 'I am excited to collaborate on your projects and help you achieve your goals in the world of web development. Let\'s start this exciting adventure together!',
     'projects_title' => 'My Projects',
+    'back' => 'back',
     'project1_title' => 'Cervelab.es',
     'project1_description' => "In this project, I developed a catalog/aggregator for breweries and beers, a perfect tool for beer enthusiasts. My focus was on creating an interactive and user-friendly platform where registered users can add new breweries and beers to the catalog. To enhance the user experience, I integrated an interactive map with Leaflet, displaying each bar's location based on coordinates provided during entry creation. This feature adds significant value by enabling users to easily locate breweries of interest.
 
