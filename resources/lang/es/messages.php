@@ -24,7 +24,7 @@ return [
     'project2_description' => 'En esta tienda, podrás poner en venta artículos una vez te hayas registrado. Los anuncios siempre tendrán que ser aprobados por un revisor autorizado antes de ser visibles en la vista. Además, podrás enviar y recibir mensajes sobre el artículo publicitado con otros usuarios.',
     'project2_link' => 'Ver Proyecto',
 
-    'project3_title' => 'BuenosAiresLindo.site/ Guía de la ciudad',
+    'project3_title' => 'BuenosAiresLindo.site',
     'project3_description' => 'Esta guía de Buenos Aires ofrece una exploración inmersiva de los vibrantes barrios de la ciudad. Incluye mapas interactivos que muestran atracciones clave, restaurantes locales y joyas ocultas. Los conocimientos culturales, antecedentes históricos y consejos prácticos enriquecen la experiencia, convirtiéndola en un recurso esencial para turistas y locales que desean descubrir el rico tapiz de Buenos Aires.',
     'project3_link' => 'Ver Proyecto',
 

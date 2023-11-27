@@ -22,7 +22,7 @@ return [
     'project2_description' => 'In this store, you can list items for sale once you have registered. Listings will always need to be approved by an authorized reviewer before they are visible on the site. Additionally, you can send and receive messages about the advertised item with other users.',
     'project2_link' => 'View Project',
 
-    'project3_title' => 'BuenosAiresLindo.site/City guide',
+    'project3_title' => 'BuenosAiresLindo.site',
     'project3_description' => 'This Buenos Aires guide offers an immersive exploration of the city´s vibrant neighborhoods. It features interactive maps showing key attractions, local eateries, and hidden gems. Cultural insights, historical backgrounds, and practical tips enhance the experience, making it an essential resource for both tourists and locals seeking to discover the rich tapestry of Buenos Aires.',
     'project3_link' => 'View Project',
     'portfolio' => 'Roberto Ramírez',

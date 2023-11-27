@@ -56,10 +56,9 @@
     <div class="container mt-5 mb-5">
         
         <div class="contact-info mb-3">
-            <p>@lang('messages.contact_phone'): <a href="tel:625485684" class="phone-link">625 485 684</a></p>
+            <p>@lang('messages.contact_phone'): <a href="tel:625485684" class="phone-link">+34 625 485 684</a></p>
             <p>@lang('messages.contact_email'): <a href="mailto:robertoramirezmoreno@gmail.com" class="email-link">robertoramirezmoreno@gmail.com</a></p>
         </div>
-        <p class="mt-2">@lang('messages.contact_prefer')</p>
         <div class="contact-container mt-4">
             <h2 class="contact-title">@lang('messages.contact_title')</h2>
             <form method="POST" action="{{ route('submitForm') }}">

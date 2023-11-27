@@ -25,14 +25,38 @@
             </div>
             <span class="skill-percent">90%</span>
         </div>
+
+        <div class="skill-bar p-1">
+            <span class="skill-name">PHP</span>
+            <div class="skill-bar-progress skill-barphp">
+                <div class="skill-bar-fill"></div>
+            </div>
+            <span class="skill-percent">80%</span>
+        </div>
+
+        <div class="skill-bar">
+            <span class="skill-name">JS</span>
+            <div class="skill-bar-progress skill-barjs">
+                <div class="skill-bar-fill"></div>
+            </div>
+            <span class="skill-percent">60%</span>
+        </div>
         <!-- Barra de Habilidades para React -->
 <div class="skill-bar">
     <span class="skill-name">React</span>
     <div class="skill-bar-progress skill-bar-react">
         <div class="skill-bar-fill" style="width: 75%;"></div>
     </div>
-    <span class="skill-percent">70%</span>
+    <span class="skill-percent">60%</span>
 </div>
+
+<div class="skill-bar">
+            <span class="skill-name">Laravel</span>
+            <div class="skill-bar-progress skill-barlaravel">
+                <div class="skill-bar-fill"></div>
+            </div>
+            <span class="skill-percent">90%</span>
+        </div>
 
 <!-- Barra de Habilidades para Vue.js -->
 <div class="skill-bar">
@@ -43,42 +67,16 @@
     <span class="skill-percent">70%</span>
 </div>
 
-<!-- Barra de Habilidades para Node.js -->
-<div class="skill-bar">
-    <span class="skill-name">Node.js</span>
-    <div class="skill-bar-progress skill-bar-node">
-        <div class="skill-bar-fill" style="width: 70%;"></div>
-    </div>
-    <span class="skill-percent">70%</span>
-</div>
 
-        <div class="skill-bar p-1">
-            <span class="skill-name">PHP</span>
-            <div class="skill-bar-progress skill-barphp">
-                <div class="skill-bar-fill"></div>
-            </div>
-            <span class="skill-percent">80%</span>
-        </div>
-        <div class="skill-bar">
-            <span class="skill-name">Laravel</span>
-            <div class="skill-bar-progress skill-barlaravel">
-                <div class="skill-bar-fill"></div>
-            </div>
-            <span class="skill-percent">90%</span>
-        </div>
-        <div class="skill-bar">
-            <span class="skill-name">JS</span>
-            <div class="skill-bar-progress skill-barjs">
-                <div class="skill-bar-fill"></div>
-            </div>
-            <span class="skill-percent">60%</span>
-        </div>
+
+        
+       
         <div class="skill-bar">
             <span class="skill-name">MySQL</span>
             <div class="skill-bar-progress skill-barmysql">
                 <div class="skill-bar-fill"></div>
             </div>
-            <span class="skill-percent">70%</span>
+            <span class="skill-percent">80%</span>
         </div>
 
 
@@ -89,7 +87,7 @@
                 <div class="col-md-4 mt-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto2.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
-                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Allforyou.es/ @lang('messages.project2_title')</h5>
+                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Allforyou.es</h5>
                             <div class="scroll-box">
                                 <p style="color: rgb(250, 250, 250); text-align: justify;" class="card-text">@lang('messages.project2_description')</p>
                             </div>
