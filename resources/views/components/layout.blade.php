@@ -16,7 +16,16 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Portfolio, cv, currículum de Roberto Ramírez Moreno, programdor o desarrollador web php, html, css, react, js">
-
+    <meta name="keywords" content="desarrollador web, programador PHP, HTML, CSS, React, JavaScript">
+    <meta name="author" content="Roberto Ramírez Moreno">
+    <meta charset="UTF-8">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Fullstackroberto.site">
+    <meta property="og:description" content="Portfolico cv currículum de Roberto Ramírez Moreno, desarrollador web">
+    <meta property="og:image" content="URL_de_imagen_destacada">
+    <meta property="og:url" content="http://fullstackroberto.site">
+    <meta property="og:type" content="website">
+    
 
 </head>
 <body style="background-color: #ffffff;">
