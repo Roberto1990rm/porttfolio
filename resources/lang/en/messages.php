@@ -92,6 +92,30 @@ return [
     'project2_link' => 'View Project',
 
     'project3_title' => 'MovilYa.site',
+    'project3_description' => '<strong>Project Summary:</strong> Product Management System.<br><br>
+    <strong>General Description:</strong><br>
+    I developed a complete product management system using Symfony, a robust PHP framework, showcasing my skills in backend development, database management, and frontend design. This project encompasses key functionalities for managing products and users, including product creation, display, and administration, as well as user registration and authentication.<br><br>
+    
+    <strong>Main Features:</strong><br><br>
+    
+    <strong>Product Management:</strong> I implemented a system to list products with pagination, add new products with interactive forms, and handle image uploads. I used Doctrine ORM for efficient database interaction.<br><br>
+    
+    <strong>User Authentication:</strong> Developed a secure authentication module, enabling users to register, log in, and log out. I implemented password hashing and security validations, ensuring the protection of sensitive data.<br><br>
+    
+    <strong>Intuitive User Interface:</strong> Designed a clear and attractive user interface with Twig, integrating Bootstrap for a responsive design. The navigation is intuitive, focusing on the user experience.<br><br>
+    
+    <strong>Optimization and Best Practices:</strong> Applied Symfony development best practices, ensuring clean, well-structured, and maintainable code. I also focused on performance optimization, especially in product loading and presentation.<br><br>
+    
+    <strong>Technologies Used:</strong><br><br>
+    Backend: PHP, Symfony Framework, Doctrine ORM.<br>
+    Frontend: Twig, Bootstrap, HTML5, CSS3.<br>
+    Tools: Git for version control, Symfony CLI, Composer.<br><br>
+    <strong>Personal Achievements:</strong><br><br>
+    Developed a complete management system from scratch, demonstrating my skills in all phases of software development.<br>
+    Successfully implemented a responsive design and an attractive user experience, enhancing the system´s accessibility and usability.<br>
+    Learned and applied advanced Symfony and PHP concepts, strengthening my competencies in modern web development.<br><br>
+    <strong>Conclusion:</strong><br>
+    This project reflects my ability to build complex, user-centric web applications. Through it, I have honed my technical skills and demonstrated my commitment to creating efficient, user-friendly software solutions.',
 
     'project3_link' => 'View Project',
     'portfolio' => 'Roberto Ramírez',
