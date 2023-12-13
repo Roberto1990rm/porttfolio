@@ -104,7 +104,7 @@
                             </div>
                             <a href="http://allforyou.es/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project2_link')</a>
                         </div>
-                        <div class="tech-icons">
+                        <div class="tech-icons bg-danger">
                             <i class="fab fa-laravel"></i> <!-- Laravel -->
                             <i class="fab fa-php"></i> <!-- PHP -->
                             <i class="fab fa-js-square"></i> <!-- JavaScript -->
@@ -118,7 +118,7 @@
                 </div>
                
                 <!-- Proyecto 2 -->
-                <div class="col-md-4 mt-2 mb-2">
+                <div class="col-md-4 mt-2 mb-2 ">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto1.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
                             <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project1_title')</h5>
@@ -127,7 +127,7 @@
                             </div>
                             <a href="http://cervelab.site/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project1_link')</a>
                         </div>
-                        <div class="tech-icons">
+                        <div class="tech-icons bg-danger">
                             <i class="fab fa-laravel"></i> <!-- Laravel -->
                             <i class="fab fa-php"></i> <!-- PHP -->
                             <i class="fab fa-js-square"></i> <!-- JavaScript -->
@@ -140,7 +140,7 @@
                     </div>
                 </div>
                 <!-- Proyecto 3 -->
-                <div class="col-md-4 mt-2 mb-2">
+                <div class="col-md-4 mt-2 mb-2 ">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto3.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
                             <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project3_title')</h5>
@@ -149,7 +149,7 @@
                             </div>
                             <a href="http://104.248.41.148/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
                         </div>
-                        <div class="tech-icons">
+                        <div class="tech-icons bg-danger">
                             <i class="fab fa-symfony"></i> <!-- Symfony -->
                             <i class="fab fa-php"></i> <!-- PHP -->
                             <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
