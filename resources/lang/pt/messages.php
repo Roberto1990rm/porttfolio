@@ -8,75 +8,106 @@ return [
     'back' => 'Volver',
     'contact_email' => 'Email',
     'contact_prefer' => 'Preferencialmente, entre em contato por telefone ou e-mail. Você também pode usar o formulário de contato se tiver alguma pergunta ou sugestão.',
-    'about_me_paragraph1' => 'Como desenvolvedor web júnior, tenho uma paixão ardente pela criação de experiências online atraentes e funcionais. Meu nível de habilidade técnica é surpreendentemente alto, e estou pronto para mostrar como posso agregar um valor excepcional aos seus projetos.',
-    'about_me_paragraph2' => 'Meu conhecimento abrange desde PHP e Laravel até CSS e HTML5, e estou em constante aprendizado para me manter atualizado com as últimas tendências em desenvolvimento web. Apesar do meu status júnior, minha habilidade para resolver problemas e minha dedicação me permitem abordar desafios complexos com confiança.',
-    'about_me_paragraph3' => 'Tenho uma sólida compreensão de gerenciamento de bancos de dados e como uma estrutura de dados eficiente é fundamental para o desempenho de aplicativos. Embora minha experiência seja júnior, minha capacidade de gerenciar bancos de dados está em constante crescimento.',
-    'about_me_paragraph4' => 'Meu foco está na qualidade e na aprendizagem contínua. Ao trabalhar comigo, você terá um membro da equipe disposto a se esforçar ao máximo para alcançar seus objetivos e sempre ansioso para aprender e melhorar.',
-    'about_me_paragraph5' => 'Apesar do meu status júnior, considere que trago um conjunto versátil de habilidades e uma paixão genuína pelo desenvolvimento web. Estou ansioso para enfrentar novos desafios e aprender com cada projeto. Trabalhar comigo significa ter um colaborador apaixonado comprometido com o sucesso dos seus projetos e disposto a crescer junto com você.',
-    'about_me_paragraph6' => 'Estou empolgado para colaborar em seus projetos e ajudá-lo a alcançar seus objetivos no mundo do desenvolvimento web. Vamos começar essa emocionante jornada juntos!',
+    'about_me_paragraph1' => 'Como um desenvolvedor web habilidoso, destaco-me na criação de plataformas interativas e soluções web personalizadas. Meu conhecimento técnico vai além do básico, especializando-me em transformar ideias complexas em experiências digitais envolventes e funcionais.',
 
+    'about_me_paragraph2' => 'Sou proficiente em tecnologias que vão desde CSS e HTML5 até PHP e Laravel, com foco no desenvolvimento full-stack. Comprometo-me a estar sempre atualizado com as tendências e tecnologias emergentes, o que me permite enfrentar desafios técnicos complexos com inovação e confiança.',
+    
+    'about_me_paragraph3' => 'Tenho um forte entendimento de gestão de banco de dados e a importância de estruturas de dados eficientes para o desempenho ótimo de aplicações. Minhas habilidades em manipulação de dados são robustas e continuam evoluindo para atender às demandas de projetos modernos.',
+    
+    'about_me_paragraph4' => 'Meu foco está na qualidade e na melhoria contínua. Colaborar comigo significa trabalhar com alguém comprometido com a excelência, buscando constantemente o crescimento profissional e contribuindo com valor significativo para cada projeto.',
+    
+    'about_me_paragraph5' => 'Meu conjunto de habilidades é amplo e adaptável, com uma paixão genuína pelo desenvolvimento web e inovação tecnológica. Estou empolgado para enfrentar novos desafios, aprender a cada etapa e contribuir ativamente para o sucesso de projetos ambiciosos.',
+    
+    'about_me_paragraph6' => 'Estou pronto para colaborar em seus projetos, trazendo minha experiência e entusiasmo para o mundo do desenvolvimento web. Juntos, podemos embarcar em uma aventura emocionante e produtiva, alcançando seus objetivos e superando expectativas.',
+    
     'projects_title' => 'Meus Projetos',
     'project1_title' => 'Cervelab.es',
-    'project1_description' => 'Neste projeto, desenvolvi um catálogo/agregador de cervejarias e cervejas, uma ferramenta ideal para entusiastas de cerveja. Meu foco foi na criação de uma plataforma interativa e amigável para o usuário, onde os usuários registrados podem adicionar novas cervejarias e cervejas ao catálogo. Para enriquecer a experiência do usuário, integrei um mapa interativo com Leaflet, mostrando a localização de cada bar com base nas coordenadas fornecidas durante a criação da entrada. Este recurso adiciona um valor significativo, permitindo que os usuários localizem facilmente cervejarias de interesse.
 
-    Na página inicial, implementei um contador interativo de cervejas que aumenta a cada clique em uma cerveja adicional, adicionando um elemento lúdico e atraente ao site. Este recurso não só melhora a interatividade, mas também cria uma atmosfera mais agradável e divertida para os visitantes do site.
+    'project1_description' => '<strong>Resumo do Projeto:</strong> Plataforma Interativa de Cervejarias e Cervejas.<br><br>
+    <strong>Descrição Geral:</strong><br>
+    Desenvolvi uma plataforma web interativa dedicada aos entusiastas de cerveja, usando Laravel, um sofisticado framework PHP. Este projeto visa fornecer uma experiência abrangente para usuários interessados em explorar cervejarias e variedades de cerveja...<br><br>
     
-    Além disso, o projeto possui um robusto sistema de gestão de conteúdo que permite aos usuários criar, editar e deletar entradas de forma simples e eficiente. Esta flexibilidade facilita a atualização constante e a expansão do catálogo de cervejarias e cervejas.
+    <strong>Principais Funcionalidades:</strong><br><br>
     
-    O projeto também se destaca pelo seu sofisticado manejo de relações entre tabelas no banco de dados, permitindo uma organização lógica e eficiente das informações sobre cervejarias e cervejas. Esta estruturação de dados é essencial para manter a integridade e a precisão das informações apresentadas no site.
+    <strong>Exploração de Cervejarias e Cervejas:</strong> Implementação de funcionalidades para explorar e descobrir cervejarias e cervejas...<br><br>
     
-    Em resumo, este projeto demonstra minha capacidade de desenvolver aplicações web completas e atraentes, combinando front-end interativo com funcionalidades back-end avançadas. A combinação de mapas interativos, contadores lúdicos e um sólido sistema de gestão de conteúdo torna este catálogo/agregador de cervejarias e cervejas uma ferramenta indispensável para aficionados e exploradores do mundo cervejeiro.',
+    <strong>Gestão de Usuários e Autenticação:</strong> Desenvolvimento de um sistema robusto para gestão de usuários, incluindo registro, autenticação e gerenciamento de perfis...<br><br>
+    
+    <strong>Interface de Usuário e Design Web:</strong> Uso de Blade e Bootstrap para criar uma experiência de usuário atraente e responsiva...<br><br>
+    
+    <strong>Sistema de Mensagens e Contato:</strong> Implementação de um sistema de contato e mensagens para facilitar a comunicação...<br><br>
+    
+    <strong>Integração de Serviços Externos:</strong> Uso de APIs externas para funcionalidades como conversão de moeda e gestão de imagens...<br><br>
+    
+    <strong>Tecnologias Utilizadas:</strong><br><br>
+    Backend: PHP, Laravel Framework.<br>
+    Frontend: Blade, Bootstrap, JavaScript.<br>
+    Banco de Dados: MySQL.<br>
+    Outros: Integração com Stripe, Mail para notificações, gerenciamento avançado de imagens e arquivos.<br><br>
+    <strong>Realizações Pessoais:</strong><br><br>
+    Desenvolvimento de um sistema completo do zero, aplicando habilidades avançadas em desenvolvimento web...<br><br>
+    <strong>Conclusões:</strong><br>
+    Este projeto reflete minha capacidade de criar aplicações web complexas que oferecem uma experiência de usuário rica e diversificada...',
+
+    
+  
     'project1_link' => 'Ver Projeto',
 
     'project2_title' => 'Loja de Venda de Artigos de Segunda Mão',
-    'project2_description' => 'AllForYou.es é uma plataforma online inovadora projetada para a venda e compra de artigos usados, oferecendo um espaço seguro e confiável tanto para compradores quanto para vendedores. A integração do sistema de pagamento Stripe (em modo de teste) garante transações suaves e protegidas. Um destaque do AllForYou.es é o seu sistema de mensagens internas, que permite que os usuários se comuniquem de forma eficaz, facilitando a negociação e a troca de informações. Além disso, a plataforma conta com papéis de usuário diferenciados, incluindo revisor, vendedor e administrador, agregando um nível adicional de organização e segurança. Minha contribuição neste projeto abrangeu desde o desenvolvimento de front-end até a implementação de funcionalidades de back-end, demonstrando habilidades em tecnologias como PHP, Laravel, JavaScript e HTML/CSS. AllForYou.es é um claro exemplo da minha capacidade de desenvolver soluções web completas e centradas no usuário, ideais para o mercado digital atual',
+    'project2_description' => '<strong>Resumo do Projeto:</strong> Plataforma de Comércio Eletrônico e Anúncios Classificados.<br><br>
+    <strong>Descrição Geral:</strong><br>
+    Desenvolvi uma plataforma de comércio eletrônico e anúncios classificados usando Laravel, demonstrando habilidades avançadas em desenvolvimento web, gerenciamento de banco de dados e programação orientada a objetos. O aplicativo permite que os usuários publiquem, gerenciem anúncios, interajam com outros usuários e realizem transações seguras.<br><br>
+    
+    <strong>Principais Funcionalidades:</strong><br><br>
+    
+    <strong>Gestão de Anúncios:</strong> Os usuários podem criar, editar e excluir anúncios. Inclui validações detalhadas e armazenamento de imagens.<br><br>
+    
+    <strong>Autenticação e Autorização de Usuários:</strong> Gerencia o registro, login e logout de usuários, aplicando práticas de segurança robustas.<br><br>
+    
+    <strong>Sistema de Mensagens:</strong> Implementação de um sistema de mensagens entre usuários, facilitando a comunicação e notificações em tempo real.<br><br>
+    
+    <strong>Integração de Pagamentos:</strong> Incorpora Stripe para processar pagamentos, permitindo transações seguras e eficientes.<br><br>
+    
+    <strong>Interface de Usuário Responsiva:</strong> Projetada com Bootstrap, a interface é responsiva e amigável, garantindo uma excelente experiência de usuário em diferentes dispositivos.<br><br>
+    
+    <strong>Tecnologias Utilizadas:</strong><br><br>
+    Backend: PHP, Laravel Framework, Eloquent ORM.<br>
+    Frontend: Blade, Bootstrap, JavaScript, JQuery.<br>
+    Ferramentas: Composer, Git, Stripe API, Mailtrap (para emails de teste).<br><br>
+    <strong>Realizações Pessoais:</strong><br><br>
+    Projetei e desenvolvi uma aplicação web completa, desde a conceituação até a implementação.<br>
+    Implementei um sistema de pagamentos seguro, melhorando a confiabilidade do serviço.<br>
+    Criei uma experiência de usuário fluida e atraente, aumentando a interação do usuário com a plataforma.<br><br>
+    <strong>Conclusão:</strong><br>
+    Este projeto evidencia minha habilidade de desenvolver aplicações web complexas e centradas no usuário. Através dele, demonstrei minhas capacidades em design de sistemas, desenvolvimento frontend e backend, e na implementação de características de comércio eletrônico.',
+
     'project2_link' => 'Ver Projeto',
 
     'project3_title' => 'MovilYa.site',
-    'project3_description' => ' Sistema de Autenticação de Usuários com Symfony.
-    Descrição:
+    'project3_description' => '<strong>Resumo do Projeto:</strong> Sistema de Gestão de Produtos.<br><br>
+    <strong>Descrição Geral:</strong><br>
+    Desenvolvi um sistema completo de gestão de produtos usando Symfony, um robusto framework PHP, demonstrando minhas habilidades em desenvolvimento backend, gestão de banco de dados e design frontend. Este projeto abrange funcionalidades-chave para gerenciar produtos e usuários, incluindo a criação, exibição e administração de produtos, bem como registro e autenticação de usuários.<br><br>
     
-    Este projeto envolveu o desenvolvimento de um sistema de autenticação de usuários usando o framework Symfony em um ambiente de aplicação web. O principal objetivo era permitir que os usuários se registrassem, fizessem login e saíssem de forma segura, proporcionando uma experiência de usuário contínua e segura.
+    <strong>Principais Funcionalidades:</strong><br><br>
     
-    Funcionalidades Principais:
+    <strong>Gestão de Produtos:</strong> Implementei um sistema para listar produtos com paginação, adicionar novos produtos com formulários interativos e gerenciar o upload de imagens. Usei Doctrine ORM para interação eficiente com o banco de dados.<br><br>
     
-    Registro de Usuários: Implementação de um formulário de registro que permite aos usuários criar contas com suas credenciais, incluindo nome de usuário e senha.
+    <strong>Autenticação de Usuários:</strong> Desenvolvi um módulo de autenticação seguro, permitindo que os usuários se registrem, façam login e logout. Implementei hash de senhas e validações de segurança, assegurando a proteção de dados sensíveis.<br><br>
     
-    Login: Criação de um formulário de login que autentica os usuários e permite que eles acessem suas contas protegidas.
+    <strong>Interface de Usuário Intuitiva:</strong> Projetei uma interface de usuário clara e atraente com Twig, integrando Bootstrap para um design responsivo. A navegação é intuitiva, com foco na experiência do usuário.<br><br>
     
-    Segurança: Utilização das melhores práticas de segurança, como armazenamento seguro de senhas e proteção contra ataques CSRF (Cross-Site Request Forgery).
+    <strong>Otimização e Melhores Práticas:</strong> Apliquei as melhores práticas de desenvolvimento do Symfony, garantindo um código limpo, bem estruturado e fácil de manter. Também foquei na otimização do desempenho, especialmente no carregamento e apresentação de produtos.<br><br>
     
-    Controle de Acesso: Configuração de regras de acesso para restringir rotas e funções a usuários autenticados.
-    
-    Mensagens Flash: Implementação de mensagens flash para notificar os usuários sobre o resultado de suas ações, como login bem-sucedido ou erros de autenticação.
-    
-    Logout: Desenvolvimento de uma função de logout que permite aos usuários saírem de suas contas de forma segura.
-    
-    Tecnologias Utilizadas:
-    
-    Symfony: Uso do framework Symfony para desenvolver a lógica de autenticação e as rotas.
-    
-    Twig: Criação de templates Twig para gerar páginas da web e formulários.
-    
-    Doctrine: Uso do ORM Doctrine para interagir com o banco de dados e armazenar informações de usuários.
-    
-    HTML, CSS e Bootstrap: Design da interface do usuário usando tecnologias web padrão e Bootstrap para uma aparência aprimorada.
-    
-    Conquistas Notáveis:
-    
-    Implementação de um sistema de autenticação seguro e robusto que protege as informações do usuário e previne ataques.
-    
-    Desenvolvimento de uma interface de usuário intuitiva e amigável que facilita o registro e o login para os usuários.
-    
-    Conformidade com as melhores práticas de segurança do Symfony para garantir a integridade da aplicação.
-    
-    Lições Aprendidas:
-    
-    Durante o desenvolvimento deste projeto, adquiri experiência na implementação de recursos de segurança, controle de acesso e gerenciamento de sessões em uma aplicação Symfony. Também aprimorei minhas habilidades na criação de formulários e no tratamento de mensagens flash para uma melhor experiência do usuário.
-    
-    Próximos Passos:
-    
-    Como próximo passo, planejo aprimorar este sistema de autenticação adicionando recursos adicionais, como redefinição de senha por e-mail e autenticação de dois fatores. Também estou interessado em explorar a implementação do OAuth para permitir que os usuários façam login por meio de serviços',
+    <strong>Tecnologias Utilizadas:</strong><br><br>
+    Backend: PHP, Symfony Framework, Doctrine ORM.<br>
+    Frontend: Twig, Bootstrap, HTML5, CSS3.<br>
+    Ferramentas: Git para controle de versões, Symfony CLI, Composer.<br><br>
+    <strong>Realizações Pessoais:</strong><br><br>
+    Desenvolvi um sistema de gestão completo do zero, demonstrando minhas habilidades em todas as fases do desenvolvimento de software.<br>
+    Implementei com sucesso um design responsivo e uma experiência de usuário atraente, melhorando a acessibilidade e usabilidade do sistema.<br>
+    Aprendi e apliquei conceitos avançados de Symfony e PHP, fortalecendo minhas competências em desenvolvimento web moderno.<br><br>
+    <strong>Conclusão:</strong><br>
+    Este projeto reflete minha capacidade de construir aplicações web complexas e centradas no usuário. Através dele, aprimorei minhas habilidades técnicas e demonstrei meu compromisso com a criação de soluções de software eficientes e fáceis de usar.',
     'project3_link' => 'Ver Projeto',
 
 
