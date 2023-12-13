@@ -18,6 +18,7 @@
             </div>
             <span class="skill-percent">80%</span> 
         </div>
+
         <div class="skill-bar">
             <span class="skill-name">HTML5</span> 
             <div class="skill-bar-progress skill-barhtml5">
@@ -56,6 +57,16 @@
                 <div class="skill-bar-fill"></div>
             </div>
             <span class="skill-percent">90%</span>
+        </div>
+
+        <div class="mt-1 skills-section p-1">
+            <div class="skill-bar">
+                <span class="skill-name">Symfony</span>
+                <div class="skill-bar-progress skill-barsymfony">
+                    <div class="skill-bar-fill" style="width: 70%;"></div>
+                </div>
+                <span class="skill-percent">70%</span> 
+            </div>
         </div>
 
 <!-- Barra de Habilidades para Vue.js -->
