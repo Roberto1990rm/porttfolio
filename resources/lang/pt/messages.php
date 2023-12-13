@@ -32,8 +32,51 @@ return [
     'project2_description' => 'AllForYou.es é uma plataforma online inovadora projetada para a venda e compra de artigos usados, oferecendo um espaço seguro e confiável tanto para compradores quanto para vendedores. A integração do sistema de pagamento Stripe (em modo de teste) garante transações suaves e protegidas. Um destaque do AllForYou.es é o seu sistema de mensagens internas, que permite que os usuários se comuniquem de forma eficaz, facilitando a negociação e a troca de informações. Além disso, a plataforma conta com papéis de usuário diferenciados, incluindo revisor, vendedor e administrador, agregando um nível adicional de organização e segurança. Minha contribuição neste projeto abrangeu desde o desenvolvimento de front-end até a implementação de funcionalidades de back-end, demonstrando habilidades em tecnologias como PHP, Laravel, JavaScript e HTML/CSS. AllForYou.es é um claro exemplo da minha capacidade de desenvolver soluções web completas e centradas no usuário, ideais para o mercado digital atual',
     'project2_link' => 'Ver Projeto',
 
-    'project3_title' => 'BuenosAireslindo.site',
-    'project3_description' => 'Neste projeto de guia de Buenos Aires é uma janela digital para o rico mosaico cultural da cidade, projetado com foco no desenvolvimento frontend para garantir uma experiência de usuário fluida e atrativa. A aplicação se concentra em apresentar uma interface interativa e visualmente atraente, destacando-se pelo uso de mapas interativos do Leaflet para ilustrar pontos de interesse. Além do seu impressionante apelo visual, o guia inclui funcionalidades fundamentais de backend, como a capacidade de criar, editar e deletar entradas, permitindo que os usuários personalizem sua experiência de navegação. Cada entrada no guia é enriquecida com detalhes culturais e contextos históricos, oferecendo uma perspectiva única e profunda de cada bairro. Este projeto equilibra habilidades técnicas em desenvolvimento frontend com funcionalidades de gestão de conteúdo no backend, resultando em uma ferramenta abrangente tanto para turistas quanto para moradores que buscam explorar Buenos Aires a fundo. A integração da API de mapas do Leaflet adiciona uma camada interativa e dinâmica, permitindo que os usuários não apenas leiam sobre os destinos, mas também os localizem geograficamente, criando uma experiência de usuário mais imersiva e completa.',
+    'project3_title' => 'MovilYa.site',
+    'project3_description' => ' Sistema de Autenticação de Usuários com Symfony.
+    Descrição:
+    
+    Este projeto envolveu o desenvolvimento de um sistema de autenticação de usuários usando o framework Symfony em um ambiente de aplicação web. O principal objetivo era permitir que os usuários se registrassem, fizessem login e saíssem de forma segura, proporcionando uma experiência de usuário contínua e segura.
+    
+    Funcionalidades Principais:
+    
+    Registro de Usuários: Implementação de um formulário de registro que permite aos usuários criar contas com suas credenciais, incluindo nome de usuário e senha.
+    
+    Login: Criação de um formulário de login que autentica os usuários e permite que eles acessem suas contas protegidas.
+    
+    Segurança: Utilização das melhores práticas de segurança, como armazenamento seguro de senhas e proteção contra ataques CSRF (Cross-Site Request Forgery).
+    
+    Controle de Acesso: Configuração de regras de acesso para restringir rotas e funções a usuários autenticados.
+    
+    Mensagens Flash: Implementação de mensagens flash para notificar os usuários sobre o resultado de suas ações, como login bem-sucedido ou erros de autenticação.
+    
+    Logout: Desenvolvimento de uma função de logout que permite aos usuários saírem de suas contas de forma segura.
+    
+    Tecnologias Utilizadas:
+    
+    Symfony: Uso do framework Symfony para desenvolver a lógica de autenticação e as rotas.
+    
+    Twig: Criação de templates Twig para gerar páginas da web e formulários.
+    
+    Doctrine: Uso do ORM Doctrine para interagir com o banco de dados e armazenar informações de usuários.
+    
+    HTML, CSS e Bootstrap: Design da interface do usuário usando tecnologias web padrão e Bootstrap para uma aparência aprimorada.
+    
+    Conquistas Notáveis:
+    
+    Implementação de um sistema de autenticação seguro e robusto que protege as informações do usuário e previne ataques.
+    
+    Desenvolvimento de uma interface de usuário intuitiva e amigável que facilita o registro e o login para os usuários.
+    
+    Conformidade com as melhores práticas de segurança do Symfony para garantir a integridade da aplicação.
+    
+    Lições Aprendidas:
+    
+    Durante o desenvolvimento deste projeto, adquiri experiência na implementação de recursos de segurança, controle de acesso e gerenciamento de sessões em uma aplicação Symfony. Também aprimorei minhas habilidades na criação de formulários e no tratamento de mensagens flash para uma melhor experiência do usuário.
+    
+    Próximos Passos:
+    
+    Como próximo passo, planejo aprimorar este sistema de autenticação adicionando recursos adicionais, como redefinição de senha por e-mail e autenticação de dois fatores. Também estou interessado em explorar a implementação do OAuth para permitir que os usuários façam login por meio de serviços',
     'project3_link' => 'Ver Projeto',
 
 
