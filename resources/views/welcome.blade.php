@@ -95,7 +95,7 @@
             <h1 style="margin-bottom: 0px; margin-top: 10px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.projects_title')</h1>
             <div class="row">
                 <!-- Proyecto 1 -->
-                <div class="col-md-4 mt-2">
+                <div class="col-md-4 mt-2 mb-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto2.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
                             <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Allforyou.es</h5>
@@ -104,11 +104,21 @@
                             </div>
                             <a href="http://allforyou.es/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project2_link')</a>
                         </div>
+                        <div class="tech-icons">
+                            <i class="fab fa-laravel"></i> <!-- Laravel -->
+                            <i class="fab fa-php"></i> <!-- PHP -->
+                            <i class="fab fa-js-square"></i> <!-- JavaScript -->
+                            <i class="fas fa-database"></i> <!-- MySQL -->
+                            <i class="fab fa-html5"></i> <!-- HTML5 -->
+                            <i class="fab fa-css3-alt"></i> <!-- CSS3 -->
+                            <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+                            <i class="fab fa-stripe"></i> <!-- Stripe API -->
+                        </div>
                     </div>
                 </div>
                
                 <!-- Proyecto 2 -->
-                <div class="col-md-4 mt-2">
+                <div class="col-md-4 mt-2 mb-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto1.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
                             <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project1_title')</h5>
@@ -117,10 +127,20 @@
                             </div>
                             <a href="http://cervelab.site/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project1_link')</a>
                         </div>
+                        <div class="tech-icons">
+                            <i class="fab fa-laravel"></i> <!-- Laravel -->
+                            <i class="fab fa-php"></i> <!-- PHP -->
+                            <i class="fab fa-js-square"></i> <!-- JavaScript -->
+                            <i class="fas fa-database"></i> <!-- MySQL -->
+                            <i class="fab fa-html5"></i> <!-- HTML5 -->
+                            <i class="fab fa-css3-alt"></i> <!-- CSS3 -->
+                            <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+                        </div>
+                        
                     </div>
                 </div>
                 <!-- Proyecto 3 -->
-                <div class="col-md-4 mt-2">
+                <div class="col-md-4 mt-2 mb-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto3.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
                             <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">@lang('messages.project3_title')</h5>
@@ -129,6 +149,16 @@
                             </div>
                             <a href="http://104.248.41.148/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
                         </div>
+                        <div class="tech-icons">
+                            <i class="fab fa-symfony"></i> <!-- Symfony -->
+                            <i class="fab fa-php"></i> <!-- PHP -->
+                            <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+                            <i class="fas fa-database"></i> <!-- MySQL -->
+                            <i class="fab fa-html5"></i> <!-- HTML5 -->
+                            <i class="fab fa-css3-alt"></i> <!-- CSS3 -->
+                            <!-- Twig no tiene un ícono en FontAwesome -->
+                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -139,14 +169,13 @@
             @lang('messages.about_me_title')
         </h1>
         
-        <div class="presentation p-2" style="margin-bottom: 20px; color:rgb(0, 0, 0); text-shadow:rgb(178, 204, 47);  background-color: white; opacity: 0.8;">
+        <div class="presentation p-2" style="text-align: justify; margin-bottom: 20px; color: rgb(0, 0, 0); text-shadow: rgb(178, 204, 47); background-color: white; opacity: 0.8;">
             <p><strong>@lang('messages.about_me_paragraph1')</strong></p>
             <p>@lang('messages.about_me_paragraph2')</p>
             <p>@lang('messages.about_me_paragraph3')</p>
             <em><p>@lang('messages.about_me_paragraph4')</p></em>
             <p>@lang('messages.about_me_paragraph5')</p>
         </div>
-        
         <div class="text-center" style="margin-bottom: 60px;">
             <a href="#" class="btn btn-primary scroll-to-top">
                 <i class="bi bi-arrow-up-circle-fill" style="color: red;"></i>

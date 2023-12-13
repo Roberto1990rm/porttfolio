@@ -70,6 +70,33 @@ h1 {
     fill: #0056b3;
 }
 
+
+.presentation {
+    text-align: justify;
+    margin-bottom: 20px;
+    color: rgb(33, 37, 41); /* Un color oscuro para el texto */
+    background-color: white;
+    opacity: 0.9;
+    padding: 15px;
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave para el contenedor */
+    font-family: 'Arial', sans-serif; /* Fuente moderna y legible */
+    line-height: 1.6; /* Espaciado entre líneas para mejorar la legibilidad */
+}
+
+.presentation p {
+    margin-bottom: 1rem; /* Espacio entre párrafos */
+}
+
+.presentation strong {
+    color: #007bff; /* Color para resaltar textos en negrita, por ejemplo, un azul */
+    font-weight: bold;
+}
+
+.presentation em {
+    font-style: italic;
+    color: #036e1c; /* Un color diferente para el texto en cursiva, como un verde */
+}
 /* Estilos para el texto junto al gráfico de barras */
 text {
     font-size: 16px;
