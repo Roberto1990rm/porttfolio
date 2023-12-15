@@ -101,7 +101,7 @@
                 <div class="col-md-4 mt-2 mb-2">
                     <div class="card h-100" style="background-image: url('{{ asset('images/proyecto2.jpg') }}'); background-size: cover;">
                         <div class="card-body" style="background-color: rgba(255, 255, 255, 0.2);">
-                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">Allforyou.es</h5>
+                            <h5 class="card-title" style="background-color:rgba(255, 255, 255, 0.8);">AllForYou.es</h5>
                             <div class="scroll-box">
                                 <p style="color: rgb(250, 250, 250); text-align: justify;" class="card-text">@lang('messages.project2_description')</p>
                             </div>
