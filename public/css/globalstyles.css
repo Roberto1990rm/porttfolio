@@ -84,9 +84,37 @@ h1 {
     line-height: 1.6; /* Espaciado entre líneas para mejorar la legibilidad */
 }
 
+
+
 .presentation p {
     margin-bottom: 1rem; /* Espacio entre párrafos */
 }
+
+.scroll-to-top {
+    color: white; /* Color del texto */
+    background-color: #007bff; /* Color de fondo del botón */
+    border: none;
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    font-weight: bold; /* Texto en negrita */
+    text-decoration: none; /* Sin subrayado */
+    transition: all 0.3s ease; /* Transición suave para hover */
+    display: inline-flex; /* Alinear ícono y texto */
+    align-items: center; /* Centrar contenido verticalmente */
+    justify-content: center; /* Centrar contenido horizontalmente */
+}
+
+.scroll-to-top:hover, .scroll-to-top:focus {
+    background-color: #00b392; /* Color de fondo al pasar el mouse */
+    color: #fff; /* Color del texto al pasar el mouse */
+    text-decoration: none; /* Mantener sin subrayado al pasar el mouse */
+}
+
+.bi-arrow-up-circle-fill {
+    color: red; /* Color del ícono */
+    margin-right: 5px; /* Espacio entre el ícono y el texto */
+}
+
 
 .presentation strong {
     color: #007bff; /* Color para resaltar textos en negrita, por ejemplo, un azul */
@@ -130,7 +158,7 @@ footer {
 /* Estilos para la sección de aptitudes */
 .skills-section {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 .skill-bar {

@@ -7,10 +7,12 @@
 
     <!-- Sección de Proyectos -->
  
-    <h1 style="margin-bottom: 10px; margin-top: 5px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.skills_title')</h1>
+    <h1 style="margin-bottom: 10px; margin-top: 0px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.skills_title')</h1>
     
     <!-- Sección de Habilidades -->
-    <div class="mt-1 skills-section p-1">
+    <div class=" skills-section">
+
+        <div class="bg-light">
         <div class="skill-bar">
             <span class="skill-name">CSS</span>
             <div class="skill-bar-progress skill-barcss">
@@ -89,10 +91,11 @@
             </div>
             <span class="skill-percent">80%</span>
         </div>
+    </div>
 
 
-        <div id="proyectos" style="margin-bottom: 3px; margin-top: 10px;">
-            <h1 style="margin-bottom: 0px; margin-top: 10px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.projects_title')</h1>
+        <div id="proyectos" style="margin-bottom: 3px; margin-top: 0px;">
+            <h1 style="margin-bottom: 0px; margin-top: 0px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); background-color:rgb(247, 240, 141);">@lang('messages.projects_title')</h1>
             <div class="row">
                 <!-- Proyecto 1 -->
                 <div class="col-md-4 mt-2 mb-2">
@@ -178,9 +181,10 @@
         </div>
         <div class="text-center" style="margin-bottom: 60px;">
             <a href="#" class="btn btn-primary scroll-to-top">
-                <i class="bi bi-arrow-up-circle-fill" style="color: red;"></i>
+                <i class="bi bi-arrow-up-circle-fill"></i> Volver Arriba
             </a>
         </div>
+        
 
     
   
@@ -268,4 +272,11 @@ x
 });
 
     </script>
+    <script>
+        document.querySelector('.scroll-to-top').addEventListener('click', function(e) {
+            e.preventDefault();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    </script>
+    
 </x-layout>
