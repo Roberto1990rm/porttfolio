@@ -21,7 +21,7 @@
     <meta charset="UTF-8">
     <meta name="robots" content="index, follow">
     <meta property="og:title" content="Fullstackroberto.site">
-    <meta property="og:description" content="Portfolico cv currículum de Roberto Ramírez Moreno, desarrollador web">
+    <meta property="og:description" content="Portfolio cv currículum de Roberto Ramírez Moreno, desarrollador web">
     <meta property="og:image" content="URL_de_imagen_destacada">
     <meta property="og:url" content="http://fullstackroberto.site">
     <meta property="og:type" content="website">
