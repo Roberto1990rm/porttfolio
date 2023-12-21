@@ -27,7 +27,7 @@ return [
     <strong>Descripción General:</strong><br>
     He desarrollado una plataforma web interactiva dedicada a los entusiastas de la cerveza, utilizando Laravel, un sofisticado framework de PHP. Este proyecto busca proporcionar una experiencia integral para usuarios interesados en explorar cervecerías y variedades de cerveza. Muestra mis habilidades avanzadas en desarrollo backend, gestión de bases de datos y mi habilidad para crear interfaces de usuario intuitivas.<br><br>
     
-    <strong>Funcionalidades Principales:</strong><br><br>
+    <strong>Funcionalidades Principales:</strong><br>
     
     <strong>Exploración de Cervecerías y Cervezas:</strong> Implementación de funcionalidades para explorar y descubrir cervecerías y cervezas, incluyendo información detallada sobre cada cervecería y sus ofertas de cerveza. La plataforma proporciona un mapa interactivo rico para navegar visualmente a través de diferentes cervecerías y una extensa base de datos de cervezas.<br><br>
     
@@ -39,12 +39,11 @@ return [
     
     <strong>Integración de Servicios Externos:</strong> Uso de APIs externas para funcionalidades como la conversión de moneda y gestión de imágenes. Esto incluye la integración con APIs financieras para datos de moneda en tiempo real y el uso de servicios en la nube para el almacenamiento y recuperación eficiente de imágenes.<br><br>
     
-    <strong>Tecnologías Utilizadas:</strong><br><br>
+    <strong>Tecnologías Utilizadas:</strong><br>
     Backend: PHP, Laravel Framework.<br>
     Frontend: Blade, Bootstrap, JavaScript.<br>
-    Base de Datos: MySQL.<br>
-    Otros: Integración de Stripe para transacciones en línea seguras, Mail para notificaciones, manejo avanzado de imágenes y archivos para asegurar alto rendimiento y compromiso del usuario.<br><br>
-    <strong>Logros Personales:</strong><br><br>
+    Base de Datos: MySQL.<br><br>
+    <strong>Logros Personales:</strong><br>
     Desarrollo de un sistema completo desde cero, aplicando habilidades avanzadas en desarrollo web. Superación de desafíos relacionados con la integración de múltiples tecnologías en una aplicación cohesiva y funcional.<br>
     Implementación exitosa de una plataforma amigable para el usuario que atrae a una amplia audiencia de amantes de la cerveza y entusiastas de cervecerías.<br><br>
     <strong>Conclusiones:</strong><br>
@@ -61,11 +60,11 @@ return [
     <strong>Descripción General:</strong><br>
     Desarrollé una plataforma de comercio electrónico y anuncios clasificados utilizando Laravel, demostrando habilidades avanzadas en desarrollo web, manejo de bases de datos y programación orientada a objetos. La aplicación permite a los usuarios publicar, gestionar anuncios, interactuar con otros usuarios y realizar transacciones seguras.<br><br>
     
-    <strong>Funcionalidades Principales:</strong><br><br>
+    <strong>Funcionalidades Principales:</strong><br>
     
     <strong>Gestión de Anuncios:</strong> Los usuarios pueden crear, editar y eliminar anuncios. Incluye validaciones detalladas y almacenamiento de imágenes.<br><br>
     
-    <strong>Autenticación y Autorización de Usuarios:</strong> Gestiona el registro, inicio de sesión y cierre de sesión de usuarios, aplicando prácticas de seguridad robustas.<br><br>
+    <strong>Autenticación y Autorización de Usuarios:</strong> Gestiona el registro, inicio de sesión y cierre de sesión de usuarios.<br><br>
     
     <strong>Sistema de Mensajería:</strong> Implementación de un sistema de mensajería entre usuarios, facilitando la comunicación y notificaciones en tiempo real.<br><br>
     
@@ -73,11 +72,11 @@ return [
     
     <strong>Interfaz de Usuario Responsiva:</strong> Diseñada con Bootstrap, la interfaz es responsiva y amigable, garantizando una excelente experiencia de usuario en diferentes dispositivos.<br><br>
     
-    <strong>Tecnologías Utilizadas:</strong><br><br>
+    <strong>Tecnologías Utilizadas:</strong><br>
     Backend: PHP, Laravel Framework, Eloquent ORM.<br>
     Frontend: Blade, Bootstrap, JavaScript, JQuery.<br>
     Herramientas: Composer, Git, Stripe API, Mailtrap (para correos electrónicos de prueba).<br><br>
-    <strong>Logros Personales:</strong><br><br>
+    <strong>Logros Personales:</strong><br>
     Diseñé y desarrollé una aplicación web completa, desde la conceptualización hasta la implementación.<br>
     Implementé un sistema de pagos seguro, mejorando la confiabilidad del servicio.<br>
     Creé una experiencia de usuario fluida y atractiva, lo que aumenta la interacción del usuario con la plataforma.<br><br>
@@ -94,7 +93,7 @@ return [
     <strong>Descripción General:</strong><br>
     Desarrollé un sistema de gestión de productos completo utilizando Symfony, un robusto framework de PHP, demostrando mis habilidades en desarrollo backend, manejo de bases de datos y diseño frontend. Este proyecto encapsula funcionalidades clave para la gestión de productos y usuarios, incluyendo la creación, visualización y administración de productos, así como el registro y autenticación de usuarios.<br><br>
     
-    <strong>Funcionalidades Principales:</strong><br><br>
+    <strong>Funcionalidades Principales:</strong><br>
     
     <strong>Gestión de Productos:</strong> Implementé un sistema para listar productos con paginación, agregar nuevos productos con formularios interactivos, y manejar la carga de imágenes. Utilicé Doctrine ORM para la interacción eficiente con la base de datos.<br><br>
     
@@ -104,11 +103,11 @@ return [
     
     <strong>Optimización y Mejores Prácticas:</strong> Apliqué las mejores prácticas de desarrollo de Symfony, garantizando un código limpio, bien estructurado y fácil de mantener. También me enfoqué en la optimización del rendimiento, especialmente en la carga y presentación de productos.<br><br>
     
-    <strong>Tecnologías Utilizadas:</strong><br><br>
+    <strong>Tecnologías Utilizadas:</strong><br>
     Backend: PHP, Symfony Framework, Doctrine ORM.<br>
     Frontend: Twig, Bootstrap, HTML5, CSS3.<br>
-    Herramientas: Git para control de versiones, Symfony CLI, Composer.<br><br>
-    <strong>Logros Personales:</strong><br><br>
+    Herramientas: Git para control de versiones, Symfony CLI, Composer.<br><br><br>
+    <strong>Logros Personales:</strong><br>
     Desarrollé un sistema de gestión completo desde cero, demostrando mis habilidades en todas las fases del desarrollo de software.<br>
     Implementé con éxito un diseño responsivo y una experiencia de usuario atractiva, mejorando la accesibilidad y usabilidad del sistema.<br>
     Aprendí y apliqué conceptos avanzados de Symfony y PHP, fortaleciendo mis competencias en desarrollo web moderno.<br><br>
