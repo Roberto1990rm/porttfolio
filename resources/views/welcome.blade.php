@@ -150,7 +150,7 @@
                             <div class="scroll-box">
                                 <p style="color: rgb(250, 250, 250); text-align: justify;" class="card-text">@lang('messages.project3_description')</p>
                             </div>
-                            <a href="http://104.248.41.148/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
+                            <a href="http://movilya.site/" class="btn btn-primary mt-3" style="display: flex; justify-content: center;">@lang('messages.project3_link')</a>
                         </div>
                         <div class="tech-icons bg-danger">
                             <i class="fab fa-symfony"></i> <!-- Symfony -->
